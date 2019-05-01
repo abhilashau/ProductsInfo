@@ -1,0 +1,33 @@
+[{"type":"CATALOGUE",
+"displayName":"Women",
+"item":"50000298",
+"clickable":"true"},
+
+{"type":"CATALOGUE",
+"displayName":"Women's Clothing-NCH",
+"item":"190118298",
+"clickable":"true"},
+
+{"type":"CATALOGUE",
+"displayName":"Women's Dresses",
+"item":"600001506",
+"clickable":"false"}]
+
+
+"colorSwatches":[
+{"color":"French Blue",
+"basicColor":"Blue",
+"colorSwatchUrl":"//johnlewis.scene7.com/is/image/JohnLewis/003415114alt1?cropN=0.4147368421052632,0.6231578947368421,0.06315789473684211,0.06315789473684211&",
+"imageUrl":"//johnlewis.scene7.com/is/image/JohnLewis/003415114?",
+"isAvailable":false,
+"skuId":"237348235"},
+{}
+}
+
+"price":
+{"was":"",
+"then1":"",
+"then2":"",
+"now":"59.00",
+"uom":"",
+"currency":"GBP"}
